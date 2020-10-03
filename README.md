@@ -1,5 +1,5 @@
 # kaczmarz-algorithm
-A simple simulation of Kaczmarz algorithm which I believed inspired modern day optimization methods in machine/deep learning.
+A simple simulation of Kaczmarz algorithm which I believe inspired modern day optimization methods in machine/deep learning.
 
 Based on the book:
 </br>[1] Avedyan, Eduard. Learning Systems. London: Springer, 1995.
